@@ -11,10 +11,10 @@ export const site = {
   npsn: "P2964100",
   headmaster: "Munandar",
   address:
-    "Jl. Raya Pendidikan No. 88, Kec. Cikajang, Kab. Garut, Jawa Barat 44171",
-  email: "info@pkbmmugisae.sch.id",
-  phoneDisplay: "+62 812-3456-7890",
-  phoneRaw: "6281234567890",
+    "Jl. KH. Syahroni No.51, RT.003/RW.001, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261",
+  email: "pkbm.mugisae@gmail.com",
+  phoneDisplay: "+62 831-1344-7280",
+  phoneRaw: "6283113447280",
   whatsappMessage:
     "Halo Admin PKBM Mugi Sae, saya tertarik untuk mendaftar program kesetaraan. Mohon informasinya.",
   mapsEmbed:
@@ -24,7 +24,7 @@ export const site = {
     facebook: "https://facebook.com/pkbmmugisae",
     youtube: "https://youtube.com/@pkbmmugisae",
   },
-  url: "https://pkbmmugisae.sch.id",
+  url: "https://mugisae.vercel.app",
 };
 
 export function buildWaLink(message?: string) {
