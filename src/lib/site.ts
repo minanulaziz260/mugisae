@@ -18,7 +18,7 @@ export const site = {
   whatsappMessage:
     "Halo Admin PKBM Mugi Sae, saya tertarik untuk mendaftar program kesetaraan. Mohon informasinya.",
   mapsEmbed:
-    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3958.6815!2d107.7942!3d-7.3792!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2sCikajang%2C%20Garut!5e0!3m2!1sid!2sid!4v1700000000000",
+    "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d506863.17863212095!2d110.4170652!3d-7.0247298!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6fbddf51a99503%3A0x783416ce8be2c361!2sPKBM%20MUGI%20SAE%20JATIBARANG!5e0!3m2!1sid!2sid!4v1776175478307!5m2!1sid!2sid",
   social: {
     instagram: "https://instagram.com/pkbmmugisae",
     facebook: "https://facebook.com/pkbmmugisae",
@@ -138,7 +138,7 @@ export const testimonials: Testimonial[] = [
     role: "Lulusan Paket B, kini Wirausaha",
     initial: "AH",
     message:
-      "Akreditasi A bukan sekadar label. Pelajaran kewirausahaan di sini benar-benar membantu saya membuka usaha sendiri di Garut.",
+      "Akreditasi A bukan sekadar label. Pelajaran kewirausahaan di sini benar-benar membantu saya membuka usaha sendiri di Brebes.",
   },
 ];
 

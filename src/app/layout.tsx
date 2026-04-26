@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     "Paket C",
     "Sekolah Kesetaraan",
     "Sekolah Online",
-    "Garut",
+    "Brebes",
     "Akreditasi A",
   ],
   authors: [{ name: site.fullName }],

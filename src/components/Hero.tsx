@@ -100,7 +100,7 @@ export default function Hero() {
                     <span className="h-2.5 w-2.5 rounded-full bg-emerald-400/80" />
                   </div>
                   <span className="text-xs font-medium tracking-wide text-brand-200">
-                    pkbmmugisae.sch.id
+                    PKBM MUGI SAE
                   </span>
                 </div>
                 <div className="space-y-5 p-6">
