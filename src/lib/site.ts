@@ -114,10 +114,10 @@ export type Testimonial = {
 export const testimonials: Testimonial[] = [
   {
     name: "Rina Maulida",
-    role: "Lulusan Paket C, kini Mahasiswa UPI",
+    role: "Lulusan Paket C, kini Karyawan Pabrik",
     initial: "RM",
     message:
-      "Saya sempat berhenti sekolah karena harus membantu orang tua. Di PKBM Mugi Sae saya bisa belajar di sela pekerjaan, dan sekarang saya kuliah di UPI berkat ijazah Paket C.",
+      "Saya sempat berhenti sekolah karena harus membantu orang tua. Di PKBM Mugi Sae saya bisa belajar di sela pekerjaan, dan sekarang saya bekerja sebagai karyawan pabrik dengan ijazah Paket C yang diakui.",
   },
   {
     name: "Iqbal Pratama",
