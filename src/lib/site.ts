@@ -13,8 +13,8 @@ export const site = {
   address:
     "Jl. Raya Pendidikan No. 88, Kec. Cikajang, Kab. Garut, Jawa Barat 44171",
   email: "info@pkbmmugisae.sch.id",
-  phoneDisplay: "+62 812-3456-7890",
-  phoneRaw: "6281234567890",
+  phoneDisplay: "+62 831-1344-7280",
+  phoneRaw: "6283113447280",
   whatsappMessage:
     "Halo Admin PKBM Mugi Sae, saya tertarik untuk mendaftar program kesetaraan. Mohon informasinya.",
   mapsEmbed:
