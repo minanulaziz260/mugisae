@@ -11,14 +11,15 @@ export const site = {
   npsn: "P2964100",
   headmaster: "Munandar",
   address:
-    "Jl. KH. Syahroni No.51, RT.003/RW.001, Jatibarang Lor, Kec. Jatibarang, Kabupaten Brebes, Jawa Tengah 52261",
-  email: "pkbm.mugisae@gmail.com",
-  phoneDisplay: "+62 831-1344-7280",
-  phoneRaw: "6283113447280",
+    "Jl. Raya Pendidikan No. 88, Kec. Cikajang, Kab. Garut, Jawa Barat 44171",
+  email: "info@pkbmmugisae.sch.id",
+  phoneDisplay: "+62 812-3456-7890",
+  phoneRaw: "6281234567890",
   whatsappMessage:
     "Halo Admin PKBM Mugi Sae, saya tertarik untuk mendaftar program kesetaraan. Mohon informasinya.",
   mapsEmbed:
-    "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d506863.17863212095!2d110.4170652!3d-7.0247298!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6fbddf51a99503%3A0x783416ce8be2c361!2sPKBM%20MUGI%20SAE%20JATIBARANG!5e0!3m2!1sid!2sid!4v1776175478307!5m2!1sid!2sid",
+    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3958.6815!2d107.7942!3d-7.3792!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2sCikajang%2C%20Garut!5e0!3m2!1sid!2sid!4v1700000000000",
+  social: {
     instagram: "https://instagram.com/pkbmmugisae",
     facebook: "https://facebook.com/pkbmmugisae",
     youtube: "https://youtube.com/@pkbmmugisae",
